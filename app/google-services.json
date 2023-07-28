@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "101597577550",
+    "project_id": "gameshelf-6f8b7",
+    "storage_bucket": "gameshelf-6f8b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101597577550:android:8c371074d8a0218f955e1f",
+        "android_client_info": {
+          "package_name": "com.example.gameshelf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101597577550-pfg9j3l8n01ktnh40o0k5s1j28v5j6rg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOYmor0Ki-ZiaMt5Y-adfPmo0_TLaotjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101597577550-pfg9j3l8n01ktnh40o0k5s1j28v5j6rg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
