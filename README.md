@@ -1,4 +1,5 @@
-# [![GameShelf](https://github.com/Zafion/GameShelf/blob/main/app/src/main/res/drawable/Icon-36.png)](https://github.com/Zafion/GameShelf) [GameShelf](https://github.com/Zafion/GameShelf)
+# [![GameShelf](https://github.com/Zafion/GameShelf/blob/main/app/src/main/res/drawable/Icon-36.png)](https://github.com/Zafion/GameShelf) GameShelf
+
 Game Shelf es una aplicación destinada a terminales móviles con sistema operativo Android.
 Está desarrollado usando Kotlin con el IDE Android Studio.
 
