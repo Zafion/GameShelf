@@ -8,5 +8,6 @@ colección propia de videojuegos.
 
 ## [Manual de uso:](https://github.com/Zafion/GameShelf/blob/main/Manual%20de%20Uso/Manual%20de%20uso.pdf)
 
+[Página 1](https://github.com/Zafion/GameShelf/blob/main/Manual%20de%20Uso/1.jpg)
 
 
