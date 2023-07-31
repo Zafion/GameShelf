@@ -6,6 +6,6 @@ Permite la consulta de información de videojuegos
 publicados a lo largo de la historia y la gestión de una
 colección propia de videojuegos.
 
-## [![Manual de uso:](https://github.com/Zafion/GameShelf/blob/main/Manual%20de%20Uso/Manual%20de%20uso.pdf)](https://github.com/Zafion/GameShelf/blob/main/Manual%20de%20Uso/Manual%20de%20uso.pdf)
+## [![PDF Icon](https://example.com/path/to/pdf-icon.png)](https://github.com/Zafion/GameShelf/blob/main/Manual%20de%20Uso/Manual%20de%20uso.pdf) [Manual de uso:](https://github.com/Zafion/GameShelf/blob/main/Manual%20de%20Uso/Manual%20de%20uso.pdf)
 
 
