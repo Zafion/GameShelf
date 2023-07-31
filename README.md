@@ -4,7 +4,7 @@ Game Shelf es una aplicación destinada a terminales móviles con sistema operat
 Está desarrollado usando Kotlin con el IDE Android Studio.
 
 Permite la consulta de información de videojuegos publicados a lo largo de la historia y la gestión de una colección propia de videojuegos.
-Al ser un proyecto de estudios, la base de datos no está completay es una tarea en curso.
+Al ser un proyecto de estudios, la base de datos no está completa y es una tarea en curso.
 
 La BBDD de consulta es online, utilizando Firestore, que forma parte de la plataforma de desarrollo Firebase de Google.
 
