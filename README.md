@@ -1,23 +1,33 @@
 # GameShelf
-Game Shelf es una aplicación destinada a terminales móviles con sistema operativo [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]().
-Está desarrollado usando [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]() con el IDE [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]().
+Game Shelf es una aplicación destinada a terminales móviles con sistema operativo Android.
+Está desarrollado usando Kotlin con el IDE Android Studio.
 
 Permite la consulta de información de videojuegos publicados a lo largo de la historia y la gestión de una colección propia de videojuegos.
-Al ser un proyecto de estudios, la base de datos no está completa, faltan por añadir muchos juegos y es una tarea en curso.
+Al ser un proyecto de estudios, la base de datos no está completay es una tarea en curso.
 
-La BBDD de consulta es online, utilizando [![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]() de [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]() de [![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=101010)]().
+La BBDD de consulta es online, utilizando Firestore, que forma parte de la plataforma de desarrollo Firebase de Google.
 
-La base de datos local usa la libreria [![Room](https://img.shields.io/badge/Room-DB6400?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]() de [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]().
+La base de datos local usa la libreria Room  de Kotlin.
 
-Es un proyecto que a día de hoy sigue en curso, hay muchas ideas y funciones pendientes de añadir, funciones como:
+Es un proyecto que a día de hoy sigue en curso. Hay muchas ideas y funciones pendientes de añadir, funciones como:
 
 	* Barra de busqueda de videojuegos por título.
 	* Nueva screen con información detallada del videojuego seleccionado.
 	* Boton para importar juego a colección propia.
-	* Mejorar visualización de colección propia, añadidendo portada y otros elementos que si tiene la biblioteca online.
+	* Mejorar la visualización de la colección propia, añadidendo portada y otros elementos que sí tiene la biblioteca online.
 	* Y muchas más.
 
-El código se puede modificar con facilidad para gestionar cualquier otro tipo de colección, por ejemplo puede servir para la consulta de elementos de un catalogo.
+El código se puede modificar con facilidad para gestionar cualquier otro tipo de colección. Por ejemplo, puede servir para la consulta de elementos de un catalogo.
+
+## Tecnologías usadas:
+
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+[![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+[![Room](https://img.shields.io/badge/Room-DB6400?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+
 
 ## [Manual de uso:](https://github.com/Zafion/GameShelf/blob/main/Manual%20de%20Uso/Manual%20de%20uso.pdf)
 
