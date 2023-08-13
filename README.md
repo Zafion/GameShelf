@@ -1,24 +1,24 @@
 # [![GameShelf](https://github.com/Zafion/GameShelf/blob/main/app/src/main/res/drawable/Icon-36.png)](https://github.com/Zafion/GameShelf) GameShelf
 
-Game Shelf es una aplicación destinada a terminales móviles con sistema operativo Android.
-Está desarrollado usando Kotlin con el IDE Android Studio.
+GameShelf es una aplicación destinada a dispositivos móviles con sistema operativo Android.
+Está desarrollada utilizando Kotlin con el IDE Android Studio.
 
-Permite la consulta de información de videojuegos publicados a lo largo de la historia y la gestión de una colección propia de videojuegos.
-Al ser un proyecto de estudios, la base de datos no está completa y es una tarea en curso.
+Permite la consulta de información de videojuegos publicados a lo largo de la historia y la gestión de una colección personal de videojuegos.
+Dado que se trata de un proyecto de estudio, la base de datos no está completa y sigue siendo un trabajo en curso.
 
-La BBDD de consulta es online, utilizando Firestore, que forma parte de la plataforma de desarrollo Firebase de Google.
+La base de datos para la consulta se encuentra en línea, utilizando Firestore, que es parte de la plataforma de desarrollo Firebase de Google.
 
-La base de datos local usa la libreria Room  de Kotlin.
+La base de datos local utiliza la librería Room de Kotlin.
 
-Es un proyecto que a día de hoy sigue en curso. Hay muchas ideas y funciones pendientes de añadir, funciones como:
+Este proyecto sigue en desarrollo en la actualidad. Existen muchas ideas y funciones pendientes de añadir, tales como:
 
-	* Barra de busqueda de videojuegos por título.
-	* Nueva screen con información detallada del videojuego seleccionado.
-	* Boton para importar juego a colección propia.
-	* Mejorar la visualización de la colección propia, añadidendo portada y otros elementos que sí tiene la biblioteca online.
-	* Y muchas más.
+	* Barra de búsqueda de videojuegos por título.
+	* Nueva pantalla con información detallada del videojuego seleccionado.
+	* Botón para importar juegos a la colección personal.
+	* Mejorar la visualización de la colección propia, añadiendo portadas y otros elementos presentes en la biblioteca en línea.
+	* Y muchas otras más
 
-El código se puede modificar con facilidad para gestionar cualquier otro tipo de colección. Por ejemplo, puede servir para la consulta de elementos de un catalogo.
+El código puede ser modificado con facilidad para gestionar cualquier otro tipo de colección. Por ejemplo, podría ser adaptado para consultar elementos en un catálogo.
 
 </br>
 
