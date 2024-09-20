@@ -1,4 +1,4 @@
 Image Name,Image Url
-Taza01.jpg,https://m.media-amazon.com/images/I/51k5yyN+KVL._AC_SY300_SX300_.jpg
-Taza02.jpg,https://www.regalopublicidad.com/images/tis54/64662699cf00f4c0946e0ed25041/1024-768/taza-e-ceramica-para-cafe-negra.jpg
-Taza03.jpg,https://m.media-amazon.com/images/I/31q0brkSlJL._SY445_SX342_QL70_ML2_.jpg
+Taza1.jpg,https://github.com/Zafion/GameShelf/blob/main/Taza1.jpg
+Taza2.jpg,https://github.com/Zafion/GameShelf/blob/main/Taza2.jpg
+Taza3.jpg,https://github.com/Zafion/GameShelf/blob/main/Taza3.jpg
